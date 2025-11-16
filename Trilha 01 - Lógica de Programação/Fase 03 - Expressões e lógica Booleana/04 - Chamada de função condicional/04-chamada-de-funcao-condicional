@@ -1,0 +1,11 @@
+// A condicional chama a função dobro()
+function dobro() {
+    console.log("O número será dobrado")
+}
+
+function executar(operacao) {
+    if (operacao === "dobro") {
+        return dobro() // retorna a função dobro()
+    }
+}
+executar("dobro") // retorna o console.log da function 'dobro()'

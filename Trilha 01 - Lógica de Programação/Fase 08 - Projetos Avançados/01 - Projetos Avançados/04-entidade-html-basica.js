@@ -1,0 +1,1 @@
+// Para mostrar o icone de grau, devemos digitar '&deg'
